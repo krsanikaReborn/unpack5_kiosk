@@ -1,0 +1,144 @@
+{
+    "language": "English",
+    "portSetting": "Port Setting",
+    "setting": "Setting",
+    "confirm": "Confirm",
+    "kiosk_alram_title": "Kiosk Error",
+    "kiosk_error_3003": "No Connected Device",
+    "kiosk_error_unknwon": "Unknow Error",
+    "kiosk_error_print_fileNotFound": "Could not find the file to print",
+
+    "return_main_menu": "Return to Main Menu",
+    "yes": "YES",
+    "no": "NO",
+
+    "quick_shot_title" : "FlexCam selfie",
+
+    "quick_standby_title" : "FlexCam\nselfie",
+    "quick_standby_description1" : "Pick up the Galaxy Z Flip5 ",
+    "quick_standby_description2" : "to take FlexCam selfies",
+    "quick_standby_description3" : "Scan QR code to begin",
+    "quick_standby_next" : "Scan QR code to begin",
+
+    "quick_guide_step1" : "STEP 1",
+    "quick_guide_step2" : "STEP 2",
+    "quick_guide_step3" : "STEP 3",
+    "quick_guide_description1" : "Double press the power button \n to activate camera",
+    "quick_guide_description2" : "Snap 4 stunning mirror selfies in 60 seconds by\nshowing your palm to the camera!",
+    "quick_guide_description3" : "Select a photo and start editing",
+    "quick_guide_agree_button" : "Got it",
+    "quick_guide_next" : "Next",
+
+
+    "quick_shot_headline1" : "ARE YOU",
+    "quick_shot_headline2" : "READY?",
+    "quick_shot_description1" : "Use a mirror to take 4 fantastic selfies in",
+    "quick_shot_description2" : "60 seconds!",
+    "quick_shot_please_start" : "Tap on the button to begin",
+    "quick_shot_start_button" : "Let's get started",
+
+    "quick_photo_notification_alert" : "press the volume button to snap a selfie!",
+    "quick_photo_notification_edit_button" : "Edit Photos",
+    "quick_photo_notification_end_soon" : "Hurry! Time is running out",
+    "quick_photo_notification_shooting_end1" : "Your selfies ",
+    "quick_photo_notification_shooting_end2" : "are ready",
+    "quick_photo_notification_shooting_cut" : "Preview",
+
+    "quick_magazin_style_alert" : "Time to make a choice!",
+    "quick_magazin_style_headline" : "Select Design",
+    "quick_magazin_style_description" : "",
+    "quick_magazin_style_image_empty" : "No photo selected",
+    "quick_magazin_style_select_button" : "Next",
+
+    "quick_photo_result_alert" : "Make up your mind!",
+    "quick_photo_result_headline" : "Select Photo",
+    "quick_photo_result_description" : "",
+    "quick_photo_result_shooting_result" : "Preview",
+    "quick_photo_result_select_button" : "Next",
+
+    "quick_final_title" : "",
+    "quick_final_done" : "Picture-perfect!",
+    "quick_final_description1": "",
+    "quick_final_description2": "*Photos will be deleted after 24 hours",
+    "quick_final_save_and_print" : "Save & Print",
+
+
+    "lowhigh_title" : "FlexCam selfie",
+
+    "lowhigh_standby_title" : "FlexCam selfie",
+    "lowhigh_standby_description1" : "Take selfies from different",
+    "lowhigh_standby_description2" : "angles with Galaxy Z Flip5",
+    "lowhigh_standby_description3" : "",
+    "lowhigh_standby_next" : "Scan QR code to begin",
+
+    "lowhigh_guide_step1" : "STEP 1",
+    "lowhigh_guide_step2" : "STEP 2",
+    "lowhigh_guide_step3" : "STEP 3",
+    "lowhigh_guide_description1" : "Take selfies with the Galaxy Z Flip5\n positioned on the ceiling and the floor",
+    "lowhigh_guide_description2" : "Snap 3 photos from each angle",
+    "lowhigh_guide_description3" : "Select a photo taken from each angle \n and start editing",
+    "lowhigh_guide_agree" : "Got it",
+    "lowhigh_guide_next" : "Next",
+
+    "lowhigh_shot_description1" : "Hit start and hurry over to the shooting spot!",
+    "lowhigh_shot_description2" : "",
+    "lowhigh_shot_please_start" : "Tap on the button to begin",  
+    "lowhigh_shot_start_button" : "Let's get started",
+
+    "lowhigh_wait_photo_high_description" : "Get ready to snap from high angles",
+    "lowhigh_wait_photo_low_description" : "Now, take 3 photos from low angles",
+
+    "lowhigh_photo_notification_hurry" : "Press the button and start editing your photo",
+    "lowhigh_photo_notification_edit_button" : "Edit Photos",
+    "lowhigh_photo_notification_shooting_cut_high" : "High Angle Preview",
+    "lowhigh_photo_notification_shooting_cut_low" : "Low Angle Preview",
+    "lowhigh_photo_notification_end1" : "Your selfies are ready",
+    "lowhigh_photo_notification_end2" : "",
+    
+    "lowhigh_photo_result_hurry" : "Make up your mind!",
+    "lowhigh_photo_result_shooting_result_high" : "High Angle Result",
+    "lowhigh_photo_result_shooting_result_low" : "Low Angle Result",
+    "lowhigh_photo_result_select_button" : "Next",
+    "lowhigh_photo_result_select_photo" : "Select Photo",
+    "lowhigh_photo_result_description" : "Choose a photo from each angle",
+    
+    "lowhigh_magazine_style_start_edit" : "Make up your mind!",
+    "lowhigh_magazine_style_high" : "Select Design",
+    "lowhigh_magazine_style_high_description" : "Select the cover design for your high angle selfie",
+    "lowhigh_magazine_style_low_description" : "Select the cover design for your low angle selfie",
+    "lowhigh_magazine_style_image_empty" : "No photo selected",
+    "lowhigh_magazine_style_select_button" : "Next",
+
+    "lowhigh_final_result" : "Picture-perfect!",
+    "lowhigh_final_result_massage" : "",
+    "lowhigh_final_result_description1" : "",
+    "lowhigh_final_result_description2" : "*Photos will be deleted after 24 hours",
+    "lowhigh_final_image_empty" : "No photo selected",
+    "lowhigh_final_save_and_print" : "Save & Print",
+
+
+    "save_print_in_progress" : "Printing in progress",
+    "save_print_please_wait" : "Please take your photo before you leave",
+    "save_print_loading" : "loading",
+
+
+    "utils_alert_hurry_up_hurry" : "Time is ticking",
+    "utils_alert_hurry_up_agree" : "OK",
+
+    "utils_connection_lost_title" : "Connection lost",
+    "utils_connection_lost_description" : "Please ask a crew for assistance",
+
+    "utils_shy_title" : "Camera shy?",
+    "utils_shy_description" : "You may end experience or return to \n camera for another try",
+    "utils_shy_quit_button" : "End",
+    "utils_shy_return_button" : "Return",
+
+    "utils_movie_title" : "Return to Photo mode",
+    "utils_movie_description" : "Please swipe left / right \n on the Flex Window to return to camera",
+    "utils_movie_return_button" : "OK",
+    
+    "utils_qrcode_description" :  "Veuillez scanner le QR code pour\ntéléchargement",
+
+    
+    "temp" : ""
+}

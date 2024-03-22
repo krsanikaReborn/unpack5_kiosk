@@ -1,0 +1,143 @@
+{
+    "language": "عربي",
+    "portSetting": "Port Setting",
+    "setting": "Setting",
+    "confirm": "Confirm",
+    "kiosk_alram_title": "Kiosk Error",
+    "kiosk_error_3003": "No Connected Device",
+    "kiosk_error_unknwon": "Unknow Error",
+    "kiosk_error_print_fileNotFound": "Could not find the file to print.",
+
+    "return_main_menu": "العودة للقائمة الرئيسية",
+    "yes": "نعم",
+    "no": "لا",
+
+    "quick_shot_title" : "FlexCam selfie",
+
+    "quick_standby_title" : "FlexCam\nselfie",
+    "quick_standby_description1" : "Pick up the Galaxy Z Flip5 ",
+    "quick_standby_description2" : "to take Quick Shot selfies",
+    "quick_standby_description3" : "Scan QR code to begin",
+    "quick_standby_next" : "Scan QR code to begin",
+
+    "quick_guide_step1" : "STEP 1",
+    "quick_guide_step2" : "STEP 2",
+    "quick_guide_step3" : "STEP 3",
+    "quick_guide_description1" : "Double press the power button \n to activate Quick Shot",
+    "quick_guide_description2" : "Snap 4 stunning mirror selfies \n in 60 seconds!",
+    "quick_guide_description3" : "Select a photo and start editing",
+    "quick_guide_agree_button" : "Got it",
+    "quick_guide_next" : "Next",
+
+
+    "quick_shot_headline1" : "هل أنت",
+    "quick_shot_headline2" : "مستعد؟",
+    "quick_shot_description1" : "Use a mirror to take 4 fantastic selfies in",
+    "quick_shot_description2" : "60 seconds!",
+    "quick_shot_please_start" : "Tap on the button to begin",
+    "quick_shot_start_button" : "Let's get started",
+
+    "quick_photo_notification_alert" : "Tap the button and start editing photo",
+    "quick_photo_notification_edit_button" : "Edit Photos",
+    "quick_photo_notification_end_soon" : "Hurry! Time is running out",
+    "quick_photo_notification_shooting_end1" : "Your selfies ",
+    "quick_photo_notification_shooting_end2" : "are ready",
+    "quick_photo_notification_shooting_cut" : "Preview",
+
+    "quick_magazin_style_alert" : "Tap the button and make your photo fashionable",
+    "quick_magazin_style_headline" : "Select Design",
+    "quick_magazin_style_description" : "",
+    "quick_magazin_style_image_empty" : "No photo selected",
+    "quick_magazin_style_select_button" : "Select",
+
+    "quick_photo_result_alert" : "!قرر الآن",
+    "quick_photo_result_headline" : "Select Photo",
+    "quick_photo_result_description" : "",
+    "quick_photo_result_shooting_result" : "Preview",
+    "quick_photo_result_select_button" : "Select",
+
+    "quick_final_title" : "",
+    "quick_final_done" : "Picture-perfect!",
+    "quick_final_description1": "",
+    "quick_final_description2": "*Photos will be deleted after 24 hours",
+    "quick_final_save_and_print" : "Save & Print",
+
+
+    "lowhigh_title" : "FlexCam selfie",
+
+    "lowhigh_standby_title" : "FlexCam selfie",
+    "lowhigh_standby_description1" : "التقط صور سيلفي من زوايا مختلفة بهاتف Galaxy Z Flip5 ",
+    "lowhigh_standby_description2" : "",
+    "lowhigh_standby_description3" : "",
+    "lowhigh_standby_next" : "امسح رمز الاستجابة السريعة QR للبدء",
+
+    "lowhigh_guide_step1" : "الخطوة الأولى ",
+    "lowhigh_guide_step2" : "الخطوة الثانية",
+    "lowhigh_guide_step3" : "الخطوة الثالثة",
+    "lowhigh_guide_description1" : "التقط صور سيلفي بهاتف Galaxy Z Flip5\n المثبت على السقف والأرضية",
+    "lowhigh_guide_description2" : "التقط 3 صور من كل زاوية",
+    "lowhigh_guide_description3" : "اختر صورة ملتقطة من كل زاوية وابدأ التعديل",
+    "lowhigh_guide_agree" : "التالي",
+    "lowhigh_guide_next" : "التالي",
+
+    "lowhigh_shot_description1" : "اضغط على ابدأ وأسرع إلى مكان التصوير!",
+    "lowhigh_shot_description2" : "",
+    "lowhigh_shot_please_start" : "اضغط على الزر لتبدأ",  
+    "lowhigh_shot_start_button" : "هيا نبدأ!",
+
+    "lowhigh_wait_photo_high_description" : "استعد للتصوير من زوايا عالية.",
+    "lowhigh_wait_photo_low_description" : "والآن، التقط 3 صور من زوايا منخفضة",
+
+    "lowhigh_photo_notification_hurry" : "اضغط على الزر وابدأ تعديل صورتك",
+    "lowhigh_photo_notification_edit_button" : "تعديل الصور",
+    "lowhigh_photo_notification_shooting_cut_high" : "معاينة الزاوية العالية",
+    "lowhigh_photo_notification_shooting_cut_low" : "معاينة الزاوية المنخفضة",
+    "lowhigh_photo_notification_end1" : "Your selfies are ready ",
+    "lowhigh_photo_notification_end2" : "",
+    
+    "lowhigh_photo_result_hurry" : "قرر الآن!",
+    "lowhigh_photo_result_shooting_result_high" : "معاينة الزاوية العالية",
+    "lowhigh_photo_result_shooting_result_low" : "معاينة الزاوية المنخفضة",
+    "lowhigh_photo_result_select_button" : "التالي",
+    "lowhigh_photo_result_select_photo" : "اختر صورة",
+    "lowhigh_photo_result_description" : "اختر صورة من كل زاوية",
+    
+    "lowhigh_magazine_style_start_edit" : "Hurry! Choose a magazine cover style.",
+    "lowhigh_magazine_style_high" : "اختر التصميم",
+    "lowhigh_magazine_style_high_description" : "حدد تصميم غلاف صورتك السيلفي الملتقطة من الزاوية العالية",
+    "lowhigh_magazine_style_low_description" : "حدد تصميم غلاف صورتك السيلفي الملتقطة من الزاوية المنخفضة",
+    "lowhigh_magazine_style_image_empty" : "No photo selected",
+    "lowhigh_magazine_style_select_button" : "التالي",
+
+    "lowhigh_final_result" : "صورة رائعة!",
+    "lowhigh_final_result_massage" : "",
+    "lowhigh_final_result_description1" : "",
+    "lowhigh_final_result_description2" : "* ستُحذف الصور بعد 24 ساعة",
+    "lowhigh_final_image_empty" : "No photo selected",
+    "lowhigh_final_save_and_print" : "حفظ وطباعة",
+
+
+    "save_print_in_progress" : "جاري الطباعة",
+    "save_print_please_wait" : "يرجى مسح رمز الاستجابة السريعة QR للتنزيل",
+    "save_print_loading" : "loading",
+
+
+    "utils_alert_hurry_up_hurry" : "الوقت يمر...",
+    "utils_alert_hurry_up_agree" : "حسناً",
+
+    "utils_connection_lost_title" : "فشل الاتصال",
+    "utils_connection_lost_description" : "يرجى طلب المساعدة من الطاقم",
+
+    "utils_shy_title" : "Camera shy?",
+    "utils_shy_description" : "You may quit or return to \n camera for another try",
+    "utils_shy_quit_button" : "Quit",
+    "utils_shy_return_button" : "Return",
+
+    "utils_movie_title" : "Return to Photo mode",
+    "utils_movie_description" : "Please swipe left / right \n on the Flex Window to return to camera",
+    "utils_movie_return_button" : "OK",
+    
+    "utils_qrcode_description" :  "Veuillez scanner le QR code pour\ntéléchargement",
+
+    "temp" : ""
+}

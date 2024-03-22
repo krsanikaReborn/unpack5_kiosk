@@ -1,0 +1,24 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Run as Administrator",
+        "type": "shell",
+        "command": "powershell.exe",
+        "args": [
+          "Start-Process",
+          "cmd.exe",
+          "-Verb",
+          "RunAs",
+          "-ArgumentList",
+          "'/k flutter run -d windows'"
+        ],
+        "problemMatcher": [],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        }
+      }
+    ]
+  }
+  

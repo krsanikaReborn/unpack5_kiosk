@@ -1,0 +1,100 @@
+name: kiosk
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_screenutil: ^5.8.4
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  serial_port_win32: ^0.7.0
+  bloc: ^8.1.2
+  equatable: ^2.0.5
+  formz: ^0.6.0
+  dio: ^5.1.2
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  settings_ui: ^2.0.2
+  flutter_bloc: ^8.1.3
+  socket_io_client: ^2.0.2
+  freezed_annotation: ^2.2.0
+  retrofit: ^4.0.1
+  carousel_slider: ^4.2.1
+  freezed: ^2.3.4
+  get_it: ^7.6.0
+  intl: any
+  wakelock: ^0.4.0
+  extended_image: ^8.0.1
+  shared_preferences: ^2.1.1
+  json_annotation: ^4.8.1
+  window_manager: ^0.3.4
+  smooth_page_indicator: ^1.1.0
+  http: ^0.13.6
+  image: ^4.0.17
+  path_provider: ^2.0.15
+  printing: ^5.11.0
+  flutter_svg: ^2.0.6
+  card_swiper: ^2.0.4
+  introduction_screen: ^3.1.8
+  file_picker: any
+  just_audio: ^0.9.34
+  just_audio_windows: ^0.2.0
+  animated_text_kit: ^4.2.2
+  cached_network_image: ^3.2.3
+  qr_flutter: ^4.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  retrofit_generator: '>=5.0.0 <6.0.0'
+  build_runner: ^2.4.4 
+  flutter_lints: ^2.0.0
+  json_serializable: ^6.6.2
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/images/magazine/
+    - assets/images/
+    - assets/svg/
+    - assets/sound/
+  fonts:
+    - family: samsungonekorean
+      fonts: 
+        - asset: assets/fonts/SamsungOneKorean-200.woff2
+        - asset: assets/fonts/SamsungOneKorean-300.woff2
+          weight: 300
+        - asset: assets/fonts/SamsungOneKorean-400.woff2
+          weight: 400
+        - asset: assets/fonts/SamsungOneKorean-500.woff2
+          weight: 500
+        - asset: assets/fonts/SamsungOneKorean-600.woff2
+          weight: 600
+        - asset: assets/fonts/SamsungOneKorean-700.woff2
+          weight: 700
+    - family: samsungsharpsans
+      fonts:
+        - asset: assets/fonts/samsungsharpsans-bold.otf
+        - asset: assets/fonts/samsungsharpsans-medium.otf
+        - asset: assets/fonts/samsungsharpsans.otf
+    - family: notothai
+      fonts:
+        - asset: assets/fonts/NotoSansThaiUI-Bold.ttf
+        - asset: assets/fonts/NotoSansThaiUI-Regular.ttf
+    - family: secnaskh
+      fonts:
+        - asset: assets/fonts/SECNaskhArabicUI-Regular.ttf
+        - asset: assets/fonts/SECNaskhArabicUI-Bold.ttf
+
+
+
+
+
